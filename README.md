@@ -90,3 +90,8 @@ $cfg['Servers'][$i]['port'] = '3307';
 
 4. Restart MySQL in XAMPP.
 
+---
+
+### Disclaimer:
+### This project is purely for educational purposes. All brand names, logos, and trademarks referenced in this project belong to their respective owners. Their inclusion does not imply any affiliation, sponsorship, or endorsement.
+
