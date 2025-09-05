@@ -71,7 +71,7 @@ $cfg['Servers'][$i]['relation'] = '';
 
 Start Apache and MySQL via XAMPP Control Panel.
 
-### ⚠️ Ensure MySQL is running on port 3307 (or your custom port). 
+### Ensure MySQL is running on port 3307 (or your custom port). 
 
 ### If MySQL is running on a different port:
 
@@ -92,6 +92,6 @@ $cfg['Servers'][$i]['port'] = '3307';
 
 ---
 
-### Disclaimer:
+### ⚠️ Disclaimer:
 ### This project is purely for educational purposes. All brand names, logos, and trademarks referenced in this project belong to their respective owners. Their inclusion does not imply any affiliation, sponsorship, or endorsement.
 
