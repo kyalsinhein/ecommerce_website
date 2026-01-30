@@ -93,5 +93,5 @@ $cfg['Servers'][$i]['port'] = '3307';
 ---
 
 ### ⚠️ Disclaimer:
-### This project is purely for educational purposes. All brand names, logos, and trademarks referenced in this project belong to their respective owners. Their inclusion does not imply any affiliation, sponsorship, or endorsement.
+*This project is purely for educational purposes. All brand names, logos, and trademarks referenced in this project belong to their respective owners. Their inclusion does not imply any affiliation, sponsorship, or endorsement.*
 
